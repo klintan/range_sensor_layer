@@ -1,0 +1,5 @@
+<library path="range_sensor_layer_core">
+  <class name="range_sensor_layer/GradientLayer" type="range_sensor_layer::RangeLayer" base_class_type="nav2_costmap_2d::Layer">
+    <description>This is a range-sensor sensor_msgs/Range based obstacle layer for Navigation2</description>
+  </class>
+</library>
